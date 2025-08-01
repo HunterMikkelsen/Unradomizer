@@ -2,6 +2,6 @@
     "name": "Unrandomizer",
     "version_number": "1.1.1",
     "website_url": "https://github.com/HunterMikkelsen/Unradomizer",
-    "description": "Control what weapons can spawn and the amount of time each weapon takes to spawn.",
+    "description": "[ARCHIVED] Control what weapons can spawn and the amount of time each weapon takes to spawn. Features now available in base STRAFTAT game.",
     "dependencies": [ ]
 }

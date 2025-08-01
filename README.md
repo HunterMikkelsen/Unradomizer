@@ -1,6 +1,14 @@
+# ⚠️ ARCHIVED PROJECT ⚠️
+
+**This mod has been archived as its features have been implemented directly into the STRAFTAT base game. You no longer need this mod to control weapon spawning and respawn times in STRAFTAT.**
+
+---
+
 # Unrandomizer
 
 A [STRAFTAT](https://store.steampowered.com/app/2386720/STRAFTAT/) mod that extends the games gun randomization mode, built for [BepInEx](https://github.com/BepInEx/BepInEx).
+
+**Note: This mod is no longer maintained as the functionality described below is now available in the base game.**
 
 ## Current Features
 
