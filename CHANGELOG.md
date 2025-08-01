@@ -1,4 +1,8 @@
 
+## Project Archived
+    - This mod has been archived as its features have been implemented directly into the STRAFTAT base game.
+    - Users no longer need this mod to control weapon spawning and respawn times.
+
 ## v1.1.1
     - Added slider to adjust weapon respawn time.
     - Added section to enable random weapon respawn time.
